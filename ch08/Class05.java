@@ -1,7 +1,7 @@
-/*²Ä5ÃD
+/*ç¬¬5é¡Œ
  * 
  */
-class CBox1      //CBox¸ò²Ä4ÃD­«Å|¨ì§ïCBox1
+class CBox1      //CBoxè·Ÿç¬¬4é¡Œé‡ç–Šåˆ°æ”¹CBox1
 {
 	int length;
 	int width;
