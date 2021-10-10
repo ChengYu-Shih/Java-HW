@@ -1,14 +1,14 @@
-/*²Ä7ÃD
+/*ç¬¬7é¡Œ
  * 
  */
 class CTest{
-	void test(int n) {
-		if (n%2==1) {
-			System.out.println(n +", ¦¹¼Æ¬°©_¼Æ");
-		}else if (n==0) {
-			System.out.println(n +", ¦¹¼Æ¬° 0");		
-		}else {
-			System.out.println(n +", ¦¹¼Æ¬°°¸¼Æ");		
+	void test(int n){
+		if (n%2==1){
+			System.out.println(n +", æ­¤æ•¸ç‚ºå¥‡æ•¸");
+		}else if (n==0){
+			System.out.println(n +", æ­¤æ•¸ç‚º 0");		
+		}else{
+			System.out.println(n +", æ­¤æ•¸ç‚ºå¶æ•¸");		
 		}
 	}
 }  
