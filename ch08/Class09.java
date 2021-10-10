@@ -1,4 +1,4 @@
-/*²Ä9ÃD
+/*ç¬¬9é¡Œ
  * 
  */
 class CCalculator{
