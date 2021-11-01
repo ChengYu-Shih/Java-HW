@@ -34,8 +34,8 @@ public class Class01 {
 		  cal.setRadius(10);
 		  
 			
-		  System.out.println("¨D§ÎÅé¿n="+cal.volume());
-		  System.out.println("¥ß¤èÅéªí­±¿n="+cal.volume1());
+		  System.out.println("æ±‚å½¢é«”ç©="+cal.volume());
+		  System.out.println("ç«‹æ–¹é«”è¡¨é¢ç©="+cal.volume1());
 		  
 	 
 	}
